@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/magazin/magazin_feedback/templates/.default/style.css" => "1710095666604",]; ?>

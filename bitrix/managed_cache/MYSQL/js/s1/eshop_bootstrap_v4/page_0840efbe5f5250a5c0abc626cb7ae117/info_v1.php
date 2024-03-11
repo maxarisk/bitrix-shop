@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/magazin/catalog_sort/templates/.default/script.js" => "1709879244656",]; ?>

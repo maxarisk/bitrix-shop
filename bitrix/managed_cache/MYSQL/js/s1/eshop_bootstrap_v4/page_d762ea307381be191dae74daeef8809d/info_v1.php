@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/magazin/magazin_feedback/templates/.default/script.js" => "1710095541812",]; ?>
